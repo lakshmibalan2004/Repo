@@ -1,5 +1,5 @@
 const config = {
-  backendUrl: 'https://mental-wellness-application.onrender.com',
+  backendUrl: 'https://repo-aoqb.onrender.com',
 };
 
 export default config;
