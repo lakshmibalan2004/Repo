@@ -1,6 +1,6 @@
 # Mental Wellness Application
 
-This is a mental wellness application designed to provide users with an AI chatbot, a journal for mood tracking, and a dashboard to visualize progress.
+This is a mental wellness application designed to provide users with an AI chatbot, a journal for mood tracking, and a dashboard to visualize       progress.
 
 ## Features
 
